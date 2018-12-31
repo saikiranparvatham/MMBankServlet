@@ -5,10 +5,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="closeAccount.mm">
+<form action="searchAccount.mm">
 <table>
-<tr><td>Enter the account number to close account:</td>
-<td><input type="number" name="accountNumber"></td></tr>
+<tr><td>Enter the account number to check balance:</td>
+<td><input type="number" name="txtAccountNumber"></td></tr>
 <tr><td><input type="submit" name="submit" value="submit"></td></tr></table></form>
 </body>
 </html>

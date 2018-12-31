@@ -20,4 +20,11 @@ Select whether salaried or not</td>
 <tr><td><input type="submit" name="submit" value="submit"></td></tr>
 </table>
 </form>
+<div>
+		<jsp:include page="homeLink.html"></jsp:include>
+	</div>
 </body></html>
+
+
+
+
